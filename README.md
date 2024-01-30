@@ -46,12 +46,16 @@ Make informed decisions on new property acquisitions and expansion based on loca
 
 Competitive Edge:
 Stay ahead in the hospitality industry by leveraging data analytics for strategic decision-making.
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ***Disclaimer***
+
 Given Data is only for Project and Educational Purpose
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *** System Requirements ***
+
 - Windows Or Mac With Latest Tableau Desktop Application
